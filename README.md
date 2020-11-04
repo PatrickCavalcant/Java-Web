@@ -1,2 +1,2 @@
 # Java-Web
-Projeto Web com PrimeFace
+Projeto Web com PrimeFaces
